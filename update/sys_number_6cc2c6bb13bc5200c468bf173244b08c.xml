@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>jj</sys_created_by>
         <sys_created_on>2016-01-13 21:35:58</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>6cc2c6bb13bc5200c468bf173244b08c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>APP</sys_name>
